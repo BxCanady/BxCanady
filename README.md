@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Brandon Canady 👋
 
-<!--
-**BxCanady/BxCanady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building high-performance web applications, backend services, and systems architecture.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend & Systems:** Rust (Axum, Async-GraphQL), Python, C++, OpenGL
+- **Data & Cloud:** PostgreSQL, Neon, Docker, Apache Spark, SQL
+
+### 🚀 Featured Focus Area
+- **Full-Stack Web:** Building responsive, modern interfaces paired with fast, type-safe API architectures.
+- **Systems & Low-Level:** Exploring high-performance graphics programming and embedded hardware integration.
+
+---
+
+📬 **Connect with me:** [LinkedIn](www.linkedin.com/in/brandon-canady-252-) | [Portfolio]([https://yourportfolio.com](https://portfollio-olive.vercel.app/))
