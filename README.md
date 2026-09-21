@@ -14,4 +14,4 @@ Software Engineer focused on building high-performance web applications, backend
 
 ---
 
-📬 **Connect with me:** [LinkedIn]www.linkedin.com/in/brandon-canady-252- | [Portfolio]https://portfollio-olive.vercel.app/
+📬 <b>Connect with me:</b> <a href="https://www.linkedin.com/in/brandon-canady-252-" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="https://portfollio-olive.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
